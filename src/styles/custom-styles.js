@@ -7,6 +7,17 @@ customize their theme. Simply add your css to this file and yarn build.
 
 export default css`
 
+.main-content{ /*main padding*/
+    padding: 45px;
+}
+
+.section-gap--read-mode{ /*read mode section gap*/
+    padding-top: 36px;
+    padding-right: 44px;
+    padding-bottom: 10px;
+    padding-left: 44px;
+}
+
 .toolbar-btn{
     border-radius: 20px;
 }
@@ -30,7 +41,7 @@ export default css`
     padding-right: 10px;
 }
 
-.nav-bar-section:first-letter {
+.nav-bar-section:first-letter { /* Operations  */
     text-transform: uppercase;
 }
 .nav-bar-info{ /* Overview and autentication */
