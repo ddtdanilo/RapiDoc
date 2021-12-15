@@ -54,5 +54,9 @@ export default css`
     display: none;
 }
 
+.divider{ /* dividers in the endpoints */
+    margin: -35px 0px;
+    border-top: 0px solid #FFFFFF;
+}
 
 `;
