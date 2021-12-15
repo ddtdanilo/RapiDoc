@@ -36,7 +36,7 @@ export default css`
     font-size: 16px;
 
     padding-top: 16px;
-    padding-left: 50px;
+    padding-left: 75px;
     padding-bottom: 16px;
     padding-right: 10px;
 }
@@ -46,7 +46,7 @@ export default css`
 }
 .nav-bar-info{ /* Overview and autentication */
     padding-top: 16px;
-    padding-left: 45px;
+    padding-left: 70px;
     padding-bottom: 16px;
     padding-right: 10px;
 }
@@ -56,7 +56,7 @@ export default css`
     font-weight: lighter;
 
     padding-top: 10px;
-    padding-left: 58px;
+    padding-left: 85px;
     padding-bottom: 10px;
     padding-right: 10px;
 }
